@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sankalpmax
+- 👋 Hi, I’m @sankalp
 - 👀 I’m interested in ...building projects based on data science using python/ML
 - 🌱 I’m currently learning ...python/ML in data science 
 - 💞️ I’m looking to collaborate on ...
