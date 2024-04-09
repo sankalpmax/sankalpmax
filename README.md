@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon App Deployment: A DevSecOps Approach with Terraform and Jenkins CI/CD**
+- 🔭 I’m currently working on **Terraform with AWSCloud module projects**
 
 - 🌱 I’m currently learning **DevOps , Cloud Technology and AWS**
 
